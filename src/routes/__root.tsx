@@ -133,7 +133,7 @@ function RootComponent() {
           </div>
         </div>
         <Toaster />
-      </QueryClientProvider>
+      </SidebarProvider>
     </QueryClientProvider>
   );
 }
